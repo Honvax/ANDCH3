@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/hurufFragment"
+    >
+
+    <fragment
+        android:id="@+id/hurufFragment"
+        android:name="com.alfrsms.andch3.HurufFragment"
+        android:label="Words"
+        tools:layout="@layout/fragment_huruf" >
+        <action
+            android:id="@+id/action_HurufFragment_to_KataFragment"
+            app:destination="@id/kataFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/kataFragment"
+        android:name="com.alfrsms.andch3.KataFragment"
+        tools:layout="@layout/fragment_kata" >
+        <argument
+            android:name="huruf"
+            app:argType="string" />
+    </fragment>
+</navigation>

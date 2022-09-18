@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="huruf">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+
+    </string-array>
+
+    <string-array name="kata">
+        <item>Akal</item>
+        <item>Aku</item>
+        <item>Anak</item>
+        <item>Anda</item>
+
+        <item>Bajak</item>
+        <item>Baju</item>
+        <item>Barang</item>
+        <item>Beruang</item>
+
+        <item>Campur</item>
+        <item>Canda</item>
+        <item>Cicak</item>
+        <item>Cirebon</item>
+
+        <item>Dalang</item>
+        <item>Dagu</item>
+        <item>Dia</item>
+        <item>Dieng</item>
+
+        <item>Embun</item>
+        <item>Etika</item>
+        <item>Ekor</item>
+        <item>Elang</item>
+
+        <item>Fantasi</item>
+        <item>Figuran</item>
+        <item>Film</item>
+        <item>Fitrah</item>
+
+        <item>Gada</item>
+        <item>Gajah</item>
+        <item>Ganjaran</item>
+        <item>Galak</item>
+
+        <item>Hasil</item>
+        <item>Hari</item>
+        <item>Hambar</item>
+        <item>Hilal</item>
+
+        <item>Ikan</item>
+        <item>Ilalang</item>
+        <item>Ibu</item>
+        <item>Itik</item>
+
+        <item>Jakarta</item>
+        <item>Jember</item>
+        <item>Jerman</item>
+        <item>Jepang</item>
+    </string-array>
+</resources>
